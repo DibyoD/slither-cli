@@ -16,3 +16,14 @@ venv/
 .vscode/
 .claude/
 uv.lock
+
+# Secrets / credentials — never commit these
+.env
+.env.*
+.pypirc
+*.pem
+*.key
+id_rsa*
+*token*
+*secret*
+credentials*
