@@ -2,10 +2,10 @@ class SlitherCli < Formula
   include Language::Python::Virtualenv
 
   desc "Colorful terminal Snake game with local high scores"
-  homepage "https://github.com/dibyodhara/slither-cli"
+  homepage "https://github.com/DibyoD/slither-cli"
   # Point this at your GitHub release tarball once you cut a release, e.g.:
-  #   https://github.com/dibyodhara/slither-cli/archive/refs/tags/v1.0.0.tar.gz
-  url "https://github.com/dibyodhara/slither-cli/archive/refs/tags/v1.0.0.tar.gz"
+  #   https://github.com/DibyoD/slither-cli/archive/refs/tags/v1.0.0.tar.gz
+  url "https://github.com/DibyoD/slither-cli/archive/refs/tags/v1.0.0.tar.gz"
   sha256 "REPLACE_WITH_TARBALL_SHA256"
   license "MIT"
 

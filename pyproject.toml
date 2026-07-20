@@ -21,7 +21,7 @@ classifiers = [
 dependencies = []
 
 [project.urls]
-Homepage = "https://github.com/dibyodhara/slither-cli"
+Homepage = "https://github.com/DibyoD/slither-cli"
 
 [project.scripts]
 slither-cli = "slither_cli.__main__:main"

@@ -25,14 +25,14 @@ No account. No servers. No config. Just `slither-cli` and play.
 ### Homebrew
 
 ```sh
-brew tap dibyodhara/tap
+brew tap DibyoD/tap
 brew install slither-cli
 ```
 
 ### From source
 
 ```sh
-git clone https://github.com/dibyodhara/slither-cli
+git clone https://github.com/DibyoD/slither-cli
 cd slither-cli
 pip install .
 slither-cli
