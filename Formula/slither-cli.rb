@@ -6,7 +6,7 @@ class SlitherCli < Formula
   # Point this at your GitHub release tarball once you cut a release, e.g.:
   #   https://github.com/DibyoD/slither-cli/archive/refs/tags/v1.0.0.tar.gz
   url "https://github.com/DibyoD/slither-cli/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "REPLACE_WITH_TARBALL_SHA256"
+  sha256 "c18093f2ad40a81866093f9ee53793a983f880e7320839e4be01b44de76b001e"
   license "MIT"
 
   depends_on "python@3.12"
