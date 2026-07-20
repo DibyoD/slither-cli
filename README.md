@@ -22,11 +22,11 @@ No account. No servers. No config. Just `slither-cli` and play.
 
 ## Install
 
-### Homebrew
+### From PyPI (recommended)
 
 ```sh
-brew tap DibyoD/tap
-brew install slither-cli
+pipx install terminal-slither   # or: pip install terminal-slither
+slither-cli
 ```
 
 ### From source
